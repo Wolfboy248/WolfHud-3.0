@@ -1,2 +1,5 @@
 # WolfHud-3.0
-video game
+Clean hud for personal use
+
+--------------------------
+absolutely gaming
