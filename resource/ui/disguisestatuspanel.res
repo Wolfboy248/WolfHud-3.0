@@ -34,12 +34,12 @@
 		"fieldName"		"DisguiseStatusBG"
 		"xpos"			"10"
 		"xpos_minmode"			"10"
-		"ypos"			"30"
+		"ypos"			"26"
 		"ypos_minmode"			"48"
 		"zpos"			"-1"
 		"wide"			"200"
 		"wide_minmode"			"140"
-		"tall"	 		"32"
+		"tall"	 		"4"
 		"tall_minmode"	 		"22"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -56,19 +56,35 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 			
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
+	}
+
+	"wh_blackbg"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"wh_blackbg"
+		"xpos"			"10"
+		"ypos"			"30"
+		"zpos"			"0"
+		"wide"			"200"
+		"tall"			"34"
+		"fillcolor"		"0 0 0 200"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"draw_corner_height" "11"
 	}
 
 	"DisguiseNameLabel"
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"DisguiseNameLabel"
-		"font"			"HudFontMediumSmallSecondary"
-		"font_minmode"	"TFFontMedium"
+		"font"			"wh_main-bold16"
 		"xpos"			"52"
 		"xpos_minmode"	"34"
-		"ypos"			"31"
+		"ypos"			"34"
 		"ypos_minmode"	"51"
 		"zpos"			"1"
 		"wide"			"110"
@@ -87,11 +103,10 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"WeaponNameLabel"
-		"font"			"HUDFontSmall"
-		"font_minmode"	"TFFontMedium"
+		"font"			"wh_main-bold12"
 		"xpos"			"52"
 		"xpos_minmode"	"34"
-		"ypos"			"45"
+		"ypos"			"49"
 		"ypos_minmode"	"58"
 		"zpos"			"1"
 		"wide"			"110"
@@ -110,19 +125,20 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
-		"xpos"			"20"
+		"xpos"			"12"
 		"xpos_minmode"	"10"
-		"ypos"			"30"
+		"ypos"			"34"
 		"ypos_minmode"	"45"
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"1"
+		"zpos"			"100"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
 		"TFFont"		"HudFontSmall"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
-		"TextColor"		"HudOffWhite"
+		"TextColor"		"wh_white"
 	}	
 	
 }

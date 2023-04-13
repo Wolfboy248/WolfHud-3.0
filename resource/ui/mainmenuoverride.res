@@ -2269,12 +2269,48 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
 
+	"ToggleconsoleButton"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"ToggleconsoleButton"
+		"xpos"		"c-285"
+		"ypos"		"250"
+		"wide"		"169"
+		"tall"		"24"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"		"wh_main-bold16"
+		"Command"		"engine toggleconsole"
+		"use_proportional_insets" "1"
+		"textAlignment"	"west"
+		"Labeltext"			" Toggle Console"
+		"paintbackground"	"1" // this needs to be 1 for bgcolor
+    
+		// default style
+		"defaultBgColor_override"	"0 0 0 0"
+		"defaultFgColor_override"	"wh_White"
+		"border_default"			"noborder"
+        
+		// armed style
+		"armedBgColor_override"	"0 0 0 0"
+		"armedFgColor_override" 	"wh_darkorange"
+		"border_armed"			"noborder"
+    
+		// depressed style    
+		"depressedBgColor_override"	"255 255 255 255"
+		"depressedFgColor_override" "255 255 255 255"
+		
+		// sound
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+
 	"ToggleMinmodeButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ToggleMinmodeButton"
 		"xpos"		"c-285"
-		"ypos"		"250"
+		"ypos"		"275"
 		"wide"		"169"
 		"tall"		"24"
 		"visible"		"1"
@@ -2310,7 +2346,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ServerBrowserButton"
 		"xpos"		"c-285"
-		"ypos"		"275"
+		"ypos"		"300"
 		"wide"		"169"
 		"tall"		"24"
 		"visible"		"1"
@@ -2346,7 +2382,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"QuitButton"
 		"xpos"		"c-285"
-		"ypos"		"300"
+		"ypos"		"325"
 		"wide"		"169"
 		"tall"		"24"
 		"visible"		"1"

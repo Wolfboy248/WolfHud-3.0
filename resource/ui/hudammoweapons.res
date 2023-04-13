@@ -109,7 +109,7 @@
 		"ypos"			"8"
 		"ypos_lodef"	"11"
 		"zpos"			"7"
-		"wide"			"40"
+		"wide"			"100"
 		"tall"			"27"
 		"tall_lodef"	"30"
 		"visible"		"0"

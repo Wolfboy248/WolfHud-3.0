@@ -30,6 +30,8 @@ Scheme
 		"wh_darkgrey"			"35 35 35 255"
 		"wh_grey"				"60 60 60 255"
 		"wh_darkorange"			"255 123 0 255"
+		"wh_teamRED_transparent"		"230 2 33 100"
+		"wh_teamBLU_transparent"		"5 111 240 100"
 		
 		// base colors
 		"Orange"			"178 82 22 255"

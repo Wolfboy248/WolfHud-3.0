@@ -77,7 +77,7 @@
 
 				"xpos"			"12"
 				"xpos_minmode"	"15"
-				"ypos"			"23"
+				"ypos"			"20"
 				"ypos_minmode"	"12"
 				"zpos"			"100"
 				"tall"			"16"
@@ -158,7 +158,7 @@
 
 				"xpos"			"rs1-9"
 				"xpos_minmode"	"rs1-15"
-				"ypos"			"23"
+				"ypos"			"20"
 				"ypos_minmode"	"12"
 				"wide"			"35"
 				"fgcolor"		"wh_white"
