@@ -6325,6 +6325,74 @@ Scheme
             }
         }
 
+		"wh_border_buttonselect_items"
+        {
+            "inset"                                                 "0 0 1 1"
+
+            "Left"
+            {
+                "1"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "2"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+            }
+
+            "Right"
+            {
+                "1"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "2"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+            }
+
+            "Top"
+            {
+                "1"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "2"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+            }
+        }
+
 		"wh_border_left_purple"
         {
             "inset"                                                 "0 0 1 1"
