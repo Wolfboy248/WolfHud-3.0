@@ -85,10 +85,10 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"wh_bgred"
 		"xpos"			"c0"
-		"ypos"			"r20"
+		"ypos"			"r30"
 		"zpos"			"0"
-		"wide"			"140"
-		"tall"			"23"
+		"wide"			"120"
+		"tall"			"30"
 		"fillcolor"		"wh_teamRED_transparent"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -101,12 +101,29 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"wh_bgblu"
-		"xpos"			"c0"
-		"ypos"			"r20"
+		"xpos"			"c-120"
+		"ypos"			"r30"
 		"zpos"			"0"
-		"wide"			"140"
-		"tall"			"23"
+		"wide"			"120"
+		"tall"			"30"
 		"fillcolor"		"wh_teamBLU_transparent"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"draw_corner_height" "11"
+	}
+
+	"wh_playingtobg"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"wh_playingtobg"
+		"xpos"			"c-40"
+		"ypos"			"r15"
+		"zpos"			"0"
+		"wide"			"80"
+		"tall"			"30"
+		"fillcolor"		"wh_bg"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -149,8 +166,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-130"
-		"ypos"			"r47"
+		"xpos"			"c-115"
+		"ypos"			"r37"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"zpos"			"8"
@@ -185,8 +202,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScoreShadow"
-		"xpos"			"c-128"
-		"ypos"			"r46"
+		"xpos"			"c-113"
+		"ypos"			"r35"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
 		"zpos"			"7"
@@ -221,8 +238,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
-		"xpos"			"c57"
-		"ypos"			"r47"
+		"xpos"			"c40"
+		"ypos"			"r35"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"zpos"			"8"
@@ -234,10 +251,8 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"HudFontBig"
-		"font_hidef"	"HudFontGiant"
-		"font_lodef"	"HudFontGiant"
-		"fgcolor"		"TanLight"		
+		"font"			"wh_main-bold40"
+		"fgcolor"		"wh_white"		
 		
 		"if_hybrid"
 		{
@@ -259,8 +274,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScoreShadow"
-		"xpos"			"c59"
-		"ypos"			"r46"
+		"xpos"			"c42"
+		"ypos"			"r33"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
 		"zpos"			"7"
@@ -272,10 +287,8 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"HudFontBig"
-		"font_hidef"	"HudFontGiant"
-		"font_lodef"	"HudFontGiant"
-		"fgcolor"		"Black"		
+		"font"			"wh_main-bold40"
+		"fgcolor"		"wh_bg"		
 		
 		"if_hybrid"
 		{
@@ -340,8 +353,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayingTo"
 		"xpos"			"c-70"	[$WIN32]
-		"xpos"			"c-60"	[$X360]
-		"ypos"			"r28"	[$WIN32]
+		"ypos"			"r22"	[$WIN32]
 		"ypos"			"r48"	[$X360]
 		"zpos"			"4"
 		"wide"			"140"	[$WIN32]
@@ -412,7 +424,7 @@
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
 		"xpos"			"c-135"
-		"ypos"			"r95"	[$WIN32]
+		"ypos"			"r80"	[$WIN32]
 		"ypos"			"r116"	[$X360]
 		"zpos"			"5"
 		"wide"			"160"
@@ -452,7 +464,7 @@
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"RedFlag"
 		"xpos"			"c-25"
-		"ypos"			"r95"	[$WIN32]
+		"ypos"			"r80"	[$WIN32]
 		"ypos"			"r116"	[$X360]
 		"zpos"			"5"
 		"wide"			"160"
