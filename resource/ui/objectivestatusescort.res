@@ -183,10 +183,10 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SimpleControlPointTemplate"	
 		"xpos"			"66"		
-		"ypos"			"123"
-		"zpos"			"1"
-		"wide"			"3"	
-		"tall"			"3"
+		"ypos"			"115"
+		"zpos"			"5"
+		"wide"			"10"	
+		"tall"			"10"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
@@ -198,7 +198,7 @@
 		
 		"if_multiple_trains_top"
 		{
-			"ypos"			"123"
+			"ypos"			"114"
 		}
 		
 		"if_multiple_trains_bottom"
@@ -312,10 +312,10 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SolarProgressBar"	
 			"xpos"			"0"			
-			"ypos"			"31"
+			"ypos"			"33"
 			"zpos"			"2"
 			"wide"			"220"
-			"tall"			"9"
+			"tall"			"8"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
