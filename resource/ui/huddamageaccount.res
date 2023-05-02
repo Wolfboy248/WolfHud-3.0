@@ -26,7 +26,7 @@
 		"labelText"	"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"	"255 255 255 255"
-		"font"	"wh_main-bold16"
+		"font"	"wh_main-bold20"
 	}
 	"DamageAccountValueDropShadow"
 	{
@@ -42,6 +42,6 @@
 		"labelText"	"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"	"0 0 0 200"
-		"font"	"wh_main-bold16"
+		"font"	"wh_main-bold20"
 	}
 }

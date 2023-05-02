@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"west"	
-		"font"			"wh_main-bold36"
+		"font"			"wh_main-bold44"
 		"fgcolor"		"255 255 255 255"
 	}
 	
@@ -87,7 +87,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"west"	
-		"font"			"wh_main-bold36"
+		"font"			"wh_main-bold44"
 		"fgcolor"		"0 0 0 230"
 	}
 	"PlayerStatusMaxHealthValue"
@@ -104,7 +104,7 @@
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"west"	
-		"font"			"wh_main-bold12"
+		"font"			"wh_main-bold16"
 		"fgcolor"		"White"
 	}
 	"PlayerStatusMaxHealthValueDropShadow"
@@ -121,7 +121,7 @@
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"west"	
-		"font"			"wh_main-bold12"
+		"font"			"wh_main-bold16"
 		"fgcolor"		"0 0 0 230"
 	}
 	"PlayerStatusBleedImage"

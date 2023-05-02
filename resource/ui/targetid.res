@@ -15,9 +15,9 @@
 		"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"		"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
+		"teambg_1"		"../hud/misc_ammo_area_brown"
+		"teambg_2"		"../hud/misc_ammo_area_red"
+		"teambg_3"		"../hud/misc_ammo_area_blue"
 		
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
@@ -93,7 +93,7 @@
 		"fieldName"		"TargetNameLabel"
 		"font"			"wh_main-bold12"
 		"xpos"			"8"
-		"ypos"			"1"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"640"
 		"tall"			"24"
@@ -113,7 +113,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"wh_main-bold8"
+		"font"			"wh_main-bold12"
 		"xpos"			"8"
 		"xpos_minmode"	"30"
 		"ypos"			"19"	[$WIN32]

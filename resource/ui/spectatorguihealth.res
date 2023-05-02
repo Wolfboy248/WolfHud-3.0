@@ -88,7 +88,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"wh_main-bold16"
+		"font"			"wh_main-bold18"
 		"fgcolor"		"wh_white"
 	}
 	"PlayerStatusHealthValueDropShadow"
@@ -106,7 +106,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"wh_main-bold16"
+		"font"			"wh_main-bold18"
 		"fgcolor"		"wh_bg"
 	}
 	"PlayerStatusPlayerLevel"
