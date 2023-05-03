@@ -3228,7 +3228,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"4"
 				"weight"	"500"
 				"antialias" "1"
@@ -3239,7 +3239,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"8"
 				"weight"	"500"
 				"antialias" "1"
@@ -3250,7 +3250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias" "1"
@@ -3261,7 +3261,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
@@ -3272,7 +3272,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -3283,7 +3283,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias" "1"
@@ -3294,7 +3294,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias" "1"
@@ -3305,7 +3305,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias" "1"
@@ -3315,7 +3315,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias" "1"
@@ -3326,7 +3326,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias" "1"
@@ -3337,7 +3337,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias" "1"
@@ -3348,7 +3348,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias" "1"
@@ -3359,7 +3359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias" "1"
@@ -3370,7 +3370,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias" "1"
@@ -3381,7 +3381,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias" "1"
@@ -3392,7 +3392,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias" "1"
@@ -3403,7 +3403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias" "1"
@@ -3414,7 +3414,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias" "1"
@@ -3427,7 +3427,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias" "1"
@@ -3440,7 +3440,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias" "1"
@@ -3452,7 +3452,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias" "1"
@@ -3465,7 +3465,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias" "1"
@@ -3478,7 +3478,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias" "1"
@@ -3491,7 +3491,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -3504,7 +3504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -3517,7 +3517,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias" "1"
@@ -3530,7 +3530,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
@@ -3543,7 +3543,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"ProximaNova-Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias" "1"
@@ -6585,8 +6585,8 @@ Scheme
 		}
 		"10" 
 		{
-			"font" "resource/fonts/Proxima-Nova-Bold.otf"
-			"name" "ProximaNova-Bold"
+			"font" "resource/fonts/Product_Sans_Bold.ttf"
+			"name" "Product Sans Bold"
 		}
 	}
 }

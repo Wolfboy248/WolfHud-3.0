@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"210"	[$WIN32]
-		"ypos"			"r118"	[$WIN32]
+		"xpos"			"r80"	[$WIN32]
+		"ypos"			"r32"	[$WIN32]
 		"xpos_minmode"	"68"	[$WIN32]
 		"ypos_minmode"	"r40"	[$WIN32]
 		"wide"			"100"
@@ -19,11 +19,11 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"SkullIcon"
-		"xpos"			"65"
-		"ypos"			"0"
+		"xpos"			"54"
+		"ypos"			"5"
 		"zpos"			"3"
-		"wide"			"24"
-		"tall"			"24"
+		"wide"			"25"
+		"tall"			"25"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"logos/menutextures/killstreakimage"
@@ -97,9 +97,9 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"27"
+		"xpos"					"17"
 		"ypos_minmode"			"18"
-		"ypos"					"3"
+		"ypos"					"7"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -111,7 +111,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"wh_main-bold18"
+		"font"					"wh_main-bold32"
 		"fgcolor"				"wh_white"
 	}
 
@@ -119,9 +119,9 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountDropShadow"
-		"xpos"					"28"
+		"xpos"					"19"
 		"ypos_minmode"			"18"
-		"ypos"					"4"
+		"ypos"					"8"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -133,19 +133,19 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"wh_main-bold18"
+		"font"					"wh_main-bold32"
 		"fgcolor"				"wh_bg"
 	}
 	
-	"Box"
+	"KillstreakBG" // not used anymore
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"Box"
-		"xpos"			"35"
-		"ypos"			"0"
+		"fieldName"		"KillstreakBG"
+		"xpos"			"18"
+		"ypos"			"4"
 		"zpos"			"0"
-		"wide"			"55"
-		"tall"			"23"
+		"wide"			"60"
+		"tall"			"26"
 		"fillcolor"		"0 0 0 200"
 		"autoResize"	"0"
 		"pinCorner"		"0"

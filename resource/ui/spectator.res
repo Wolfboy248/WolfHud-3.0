@@ -67,7 +67,7 @@
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-300"	[$WIN32]
 		"xpos_minmode"	"0"
-		"ypos"			"60"	[$WIN32]
+		"ypos"			"c100"	[$WIN32]
 		"wide"			"600"	[$WIN32]
 		"zpos"			"1"
 		"tall"			"18"
@@ -125,7 +125,7 @@
 		"fieldName"		"MapLabel"
 		"font"			"wh_main-bold20"
 		"xpos"			"r250"	[$WIN32]
-		"ypos"			"60"	[$WIN32]
+		"ypos"			"c100"	[$WIN32]
 		"wide"			"240"	[$WIN32]
 		"zpos"			"1"
 		"tall"			"18"
@@ -195,7 +195,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SwitchCamModeLabel"
-		"xpos"			"80"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 		"ypos"			"10"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"40"	[$X360]		
@@ -216,8 +216,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdKeyLabel"
-		"xpos"			"5"	[$WIN32]
-		"ypos"			"20"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
+		"ypos"			"9999"	[$WIN32]
 		"xpos"			"53"	[$X360]
 		"ypos"			"50"	[$X360]		
 		"wide"			"60"	[$WIN32]
@@ -237,7 +237,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CycleTargetFwdLabel"
-		"xpos"			"80"	[$WIN32]
+		"xpos"			"9999"	[$WIN32]
 		"ypos"			"20"	[$WIN32]
 		"xpos"			"128"	[$X360]
 		"ypos"			"50"	[$X360]		

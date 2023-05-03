@@ -9,8 +9,8 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"wh_main-bold_outline14"
-		"delta_item_font_big"	"wh_main-bold_outline14"
+		"delta_item_font"		"wh_main-bold_outline20"
+		"delta_item_font_big"	"wh_main-bold_outline20"
 	}
 	"DamageAccountValue"
 	{
@@ -26,7 +26,7 @@
 		"labelText"	"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"	"255 255 255 255"
-		"font"	"wh_main-bold16"
+		"font"	"wh_main-bold20"
 	}
 	"DamageAccountValueDropShadow"
 	{
@@ -42,6 +42,6 @@
 		"labelText"	"%metal%"
 		"textAlignment"	"center"
 		"fgcolor"	"0 0 0 200"
-		"font"	"wh_main-bold16"
+		"font"	"wh_main-bold20"
 	}
 }
