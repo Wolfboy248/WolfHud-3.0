@@ -3420,6 +3420,205 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		// regular black
+		
+		"wh_main-black4"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"4"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black8"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black10"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black12"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black16"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black18"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black20"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black24"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		"wh_main-black28"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black32"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black36"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black40"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black44"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black48"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black52"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black56"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black60"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		"wh_main-black64"
+		{
+			"1"
+			{
+				"name"		"Product Sans black"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 		
 		// outlines
 		
@@ -6325,7 +6524,7 @@ Scheme
             }
         }
 
-		"wh_border_buttonselect_items"
+		"wh_border_allsides_white"
         {
             "inset"                                                 "0 0 1 1"
 
@@ -6386,6 +6585,130 @@ Scheme
                 }
 
                 "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+            }
+
+            "Bottom"
+            {
+                "1"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "2"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+            }
+        }
+
+		"wh_border_buttonselect_items"
+        {
+            "inset"                                                 "0 0 1 1"
+
+            "Left"
+            {
+                "1"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "2"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+				"5"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+				"6"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+				"7"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+            }
+
+            "Right"
+            {
+                "1"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "2"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+				"5"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+				"6"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+				"7"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+            }
+
+            "Top"
+            {
+                "1"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "2"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+
+                "4"
+                {
+                    "color"                                         "wh_white"
+                    "offset"                                        "0 1"
+                }
+				"5"
                 {
                     "color"                                         "wh_white"
                     "offset"                                        "0 1"
@@ -6587,6 +6910,11 @@ Scheme
 		{
 			"font" "resource/fonts/Product_Sans_Bold.ttf"
 			"name" "Product Sans Bold"
+		}
+		"11" 
+		{
+			"font" "resource/fonts/ProductSans-Black.ttf"
+			"name" "Product Sans Black"
 		}
 	}
 }

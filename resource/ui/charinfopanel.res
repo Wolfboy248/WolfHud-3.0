@@ -20,12 +20,12 @@
 		"outoffocus_bgcolor_override"	"46 43 42 0"
 		
 		"title"			"#CharInfoAndSetup"
-		"title_font"	"HudFontMediumBold"
+		"title_font"	"wh_main-bold24"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"0"
 		"titlebarfgcolor_override"				"200 187 161 255"
 		"titlebardisabledfgcolor_override"		"200 187 161 255"
-		"titlebarbgcolor_override"				"46 43 42 255"
+		"titlebarbgcolor_override"				"0 0 0 255"
 		
 		"clientinsetx_override"			"0"
 		"sheetinset_bottom"				"40"
@@ -106,7 +106,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"wh_bgheaderline"
 		"xpos"			"0"
-		"ypos"			"52"
+		"ypos"			"45"
 		"zpos"			"200"
 		"wide"			"f0"
 		"tall"			"3"
@@ -114,6 +114,80 @@
 		"enabled"		"1"
 		"fillcolor"		"wh_white"
 	}	
+
+	"wh_backbutton"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"ItemsButton"
+		"xpos"		"40"
+		"ypos"		"r40"
+		"zpos"		"500"
+		"wide"		"80"
+		"tall"		"24"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"		"wh_main-bold16"
+		"Command"		"back"
+		"use_proportional_insets" "1"
+		"textAlignment"	"center"
+		"Labeltext"			"Back (E)"
+		"paintbackground"	"1" // this needs to be 1 for bgcolor
+    
+		// default style
+		"defaultBgColor_override"	"0 0 0 200"
+		"defaultFgColor_override"	"wh_White"
+		"border_default"			"noborder"
+        
+		// armed style
+		"armedBgColor_override"	"0 0 0 220"
+		"armedFgColor_override" 	"wh_darkorange"
+		"border_armed"			"noborder"
+    
+		// depressed style    
+		"depressedBgColor_override"	"255 255 255 255"
+		"depressedFgColor_override" "255 255 255 255"
+		
+		// sound
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+
+	"wh_backbutton_hidden"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"ItemsButton"
+		"xpos"		"9999"
+		"ypos"		"r40"
+		"zpos"		"500"
+		"wide"		"80"
+		"tall"		"24"
+		"visible"		"1"
+		"enabled"		"1"
+		"font"		"wh_main-bold16"
+		"Command"		"back"
+		"use_proportional_insets" "1"
+		"textAlignment"	"center"
+		"Labeltext"			"&E"
+		"paintbackground"	"1" // this needs to be 1 for bgcolor
+    
+		// default style
+		"defaultBgColor_override"	"0 0 0 200"
+		"defaultFgColor_override"	"wh_White"
+		"border_default"			"noborder"
+        
+		// armed style
+		"armedBgColor_override"	"0 0 0 220"
+		"armedFgColor_override" 	"wh_darkorange"
+		"border_armed"			"noborder"
+    
+		// depressed style    
+		"depressedBgColor_override"	"255 255 255 255"
+		"depressedFgColor_override" "255 255 255 255"
+		
+		// sound
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+	}
 	
 	"Sheet"
 	{
