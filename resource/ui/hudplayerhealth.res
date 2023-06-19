@@ -57,7 +57,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"72"
+		"xpos"			"2"
 		"xpos_minmode"	"61"
 		"ypos"			"52"	[$WIN32]
 		"ypos"			"55"	[$X360]
@@ -67,7 +67,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"west"	
+		"textAlignment"	"center"	
 		"font"			"wh_main-bold44"
 		"fgcolor"		"255 255 255 255"
 	}
@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueDropShadow"
-		"xpos"			"74"
+		"xpos"			"4"
 		"xpos_minmode"	"61"
 		"ypos"			"54"	[$WIN32]
 		"ypos"			"55"	[$X360]
@@ -86,24 +86,40 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"west"	
+		"textAlignment"	"center"	
 		"font"			"wh_main-bold44"
 		"fgcolor"		"0 0 0 230"
 	}
+
+	"BonusImageReplace"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BonusImageReplace"
+		"xpos"			"64"
+		"ypos"			"76"
+		"zpos"			"1"
+		"wide"			"78"
+		"tall"			"32"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"0 0 0 0"
+		"PaintBackgroundType"	"0"
+	}
+
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusMaxHealthValue"
-		"xpos"			"74"
+		"xpos"			"77"
 		"xpos_minmode"	"61"
-		"ypos"			"62"	[$WIN32]
+		"ypos"			"60"	[$WIN32]
 		"zpos"			"6"
 		"wide"			"50"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
-		"textAlignment"	"west"	
+		"textAlignment"	"center"	
 		"font"			"wh_main-bold16"
 		"fgcolor"		"White"
 	}
@@ -111,16 +127,16 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusMaxHealthValueDropShadow"
-		"xpos"			"75"
+		"xpos"			"78"
 		"xpos_minmode"	"61"
-		"ypos"			"63"	[$WIN32]
+		"ypos"			"61"	[$WIN32]
 		"zpos"			"6"
 		"wide"			"50"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
-		"textAlignment"	"west"	
+		"textAlignment"	"center"	
 		"font"			"wh_main-bold16"
 		"fgcolor"		"0 0 0 230"
 	}

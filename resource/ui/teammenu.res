@@ -431,7 +431,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"font"			"NotoBold16"
+		"font"			"wh_main-bold16"
 		"fgcolor"		"white"
 	}
 

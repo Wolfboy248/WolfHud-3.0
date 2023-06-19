@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"x_offset"		"0"
-		"xpos"			"c-173"	[$WIN32]
+		"xpos"			"c-178"	[$WIN32]
 		"ypos"			"c123"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
@@ -67,7 +67,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"2"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -87,7 +87,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountDropShadow"
 		"xpos"					"1"
-		"ypos"					"1"
+		"ypos"					"3"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	

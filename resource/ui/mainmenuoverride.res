@@ -2105,7 +2105,7 @@
 		"Command"		""
 		"use_proportional_insets" "1"
 		"textAlignment"	"east"
-		"Labeltext"			"Beta 3.0  "
+		"Labeltext"			"Beta 3.1  "
 		"paintbackground"	"1" // this needs to be 1 for bgcolor
     
 		// default style
